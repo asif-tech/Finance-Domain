@@ -8,4 +8,6 @@ In this project, I leveraged SQL Server to analyze a comprehensive dataset from 
 
 **Loan Categorization:** Segmented loans into 'good' and 'bad' categories based on repayment status, providing a clear comparison of performance metrics.
 
+**Visualizations:** Created detailed dashboards in Excelto illustrate trends and insights, making complex data easily understandable for stakeholders.
+
 This project showcases my ability to handle large datasets, perform in-depth analyses, and present findings in a clear and actionable manner.
